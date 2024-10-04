@@ -1,5 +1,3 @@
 arr = input().split()
 a, b = int(arr[0]), int(arr[1])
-res = int(a/b)
-print(f'{a} * {b} = {a*b}')
-print(f'{a} / {b} = {res}')
+print(f'{a} * {b} = {a*b}\n{a} / {b} = {a//b}')
