@@ -10,4 +10,4 @@ elif l=='C':
 elif l=='D':
     print('Effort')
 else:
-    print('Faillure')
+    print('Failure')
